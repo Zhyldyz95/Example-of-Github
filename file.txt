@@ -1,4 +1,4 @@
-Hi there!
+
 
 My name is Zhyldyz.
 
@@ -7,3 +7,9 @@ I am studying Python.
 It is complicated a little bit.
 
 But I am sure that I will succeed.
+
+Our instructor explained us how to work with Github on Friday.
+
+I am doing my homework right now.
+
+I have to add files to Github by following some instructions.
